@@ -17,7 +17,7 @@ body {
     padding: 15px 35px;
 }
 
-.section-titel {
+.section-title {
     color: #181818;
     text-align: center;
     font-size: 35px;
@@ -26,7 +26,7 @@ body {
 }
 
 .section-description {
-    color: #757575);
+    color: #757575;
     text-align: center;
     font-size: 18px;
     font-weight: 400;
@@ -90,13 +90,13 @@ nav a {
     width: 500px;
 }
 
-.banner-greeeting {
+.banner-greeting {
     font-size: 45px;
     color: #474747;
     margin-bottom: 0;
 }
 
-.banner title {
+.banner-title {
     font-size: 85px;
     font-weight: 700;
     margin-top: 5px;
@@ -112,6 +112,10 @@ nav a {
 
 
 /* main section styles */
+
+main {
+    max-width: 1140px;
+}
 
 /* about section styles */
 
