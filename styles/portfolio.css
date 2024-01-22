@@ -195,6 +195,10 @@ display: flex;
 gap: 50px;
 }
 
+.resume-item-institute, .resume-item-description{
+    color: #757575;
+}
+
 .download-cv{
     text-align: center;
     margin-top: 50px ;
